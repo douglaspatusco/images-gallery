@@ -18,7 +18,7 @@ Este projeto é uma galeria de fotos interativa que o usuário visualize imagens
 ## 📌 Demonstração
 
 Acesse o projeto online em:  
-🔗 [https://depc-jquery-galeria-fotos.vercel.app](https://depc-jquery-galeria-fotos.vercel.app)
+🔗 [https://images-gallery-douglaspatusco.vercel.app](https://images-gallery-douglaspatusco.vercel.app)
 
 ## 📁 Como executar o projeto localmente
 
