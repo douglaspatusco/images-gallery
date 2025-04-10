@@ -28,7 +28,5 @@ Acesse o projeto online em:
 
    cd images-gallery
 
-   npm install
-
-   npm run dev
+   # open index.html or run live server
    ```
