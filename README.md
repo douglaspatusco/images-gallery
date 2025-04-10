@@ -24,7 +24,7 @@ Acesse o projeto online em:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/depc-jquery-galeria-fotos.git
+   git clone https://github.com/douglaspatusco/images-gallery.git
 
    cd depc-jquery-galeria-fotos
 
