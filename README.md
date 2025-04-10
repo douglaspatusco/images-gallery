@@ -26,7 +26,7 @@ Acesse o projeto online em:
    ```bash
    git clone https://github.com/douglaspatusco/images-gallery.git
 
-   cd depc-jquery-galeria-fotos
+   cd images-gallery
 
    npm install
 
